@@ -1,3 +1,3 @@
-# 3D-models-stereotacsis-
+# 3D-models-stereotacsis
 
 jnbknjn
