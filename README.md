@@ -2,4 +2,4 @@
 
 jnbknjn
 
-<img width="3301" height="1380" alt="Рисунок1" src="https://github.com/user-attachments/assets/1daf0f6d-1b29-4e0c-83ca-3cabb1be4215" />
+<img width="3301" height="1380" alt="Рисунок1" src="https://github.com/user-attachments/assets/1abdd74c-8791-4d0d-ba41-d9917c39567a" />
